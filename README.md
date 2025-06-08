@@ -2,14 +2,16 @@
 
 <h1 align="center">Hi 👋, I'm Bhavya! <br />
 
-A Fullstack developer 💻 with a passion for finance 👨‍💼</h1>
+A Fullstack developer 💻 with a passion for finance 📈</h1>
 
 ###
+<h3>Who I am📌</h3>
 
 <text align="Left">🎓 I am a fourth-year Computer Science and Business double degree student at the University Of Waterloo<br><br>🦆 Right now, I'm working on MatchaGoose, a startup that aims to boost campus tech engagement!<br><br>💼 I'm currently seeking Fall 2025 Software Engineering Internships <br><br>🏂 Fun fact: I love the outdoors, playing sports and have recently picked up snowboarding!</text> <br />
 
 ---
 ###
+<h3>What I've used in the past👨‍💻</h3>
 
 <h4 align="Left">Languages</h4>
 
