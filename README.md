@@ -4,7 +4,7 @@
 
 ###
 
-<p align="Left">🎓 I am a fourth-year Computer Science and Business double degree student at the University Of Waterloo<br><br>🛠️ I love builting projects that  create an impact world. <br><br>🦆 Right now, I'm working on MatchaGoose that aims to boost campus tech engagement!<br><br>💼 I'm currently seeking Fall 2025 Software Engineering Internships <br><br>🏂 Fun fact: I love sports and have recently picked up snowboarding!</p> <br />
+<h4 align="Left">🎓 I am a fourth-year Computer Science and Business double degree student at the University Of Waterloo<br><br>🛠️ I love builting projects that create a meaningful impact <br><br>🦆 Right now, I'm working on MatchaGoose, a startup that aims to boost campus tech engagement!<br><br>💼 I'm currently seeking Fall 2025 Software Engineering Internships <br><br>🏂 Fun fact: I love the outdoors, playing sports and have recently picked up snowboarding!</h4> <br />
 
 ###
 
