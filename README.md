@@ -102,6 +102,9 @@ A Fullstack developer 💻 with a passion for finance 👨‍💼</h1>
   <a href="mailto:b3modi@uwaterloo.ca" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
   </a>
+  <a href="https://bhavyamodi.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" height="35 alt="website logo" />
+  </a>
 </div>
 
 ###
