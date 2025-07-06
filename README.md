@@ -15,46 +15,20 @@ A Fullstack developer 💻 with a passion for finance 📈</h1>
 ###
 <h3>What I've used in the past👨‍💻</h3>
 
-<h4 align="Left">Languages</h4>
-<ul>
-  <li>Python</li>
-  <li>Elixir</li>
-  <li>C</li>
-  <li>C++</li>
-  <li>C#</li>
-  <li>Java</li>
-  <li>JavaScript</li>
-  <li>HTML5</li>
-  <li>CSS3</li>
-  <li>PostgreSQL</li>
-  <li>GraphQL</li>
-  <li>R</li>
-</ul>
+### Languages
 
-<h4 align="Left">Frameworks</h4>
-<ul>
-  <li>Next.js</li>
-  <li>Phoenix</li>
-  <li>Apache Kafka</li>
-  <li>PyTorch</li>
-  <li>Tailwind CSS</li>
-  <li>Selenium</li>
-</ul>
+| Python | Elixir | C | C++ | C# | Java | JavaScript | HTML5 | CSS3 | PostgreSQL | GraphQL | R |
+|--------|--------|---|-----|----|------|------------|-------|------|------------|---------|---|
 
-<h4 align="left">Developer Tools</h4>
-<ul>
-  <li>Git</li>
-  <li>GitHub</li>
-  <li>Amazon Web Services (AWS)</li>
-  <li>Azure</li>
-  <li>Docker</li>
-  <li>CircleCI</li>
-  <li>ArgoCD</li>
-  <li>Jira</li>
-  <li>Storybook</li>
-  <li>Postman</li>
-</ul>
-<br />
+### Frameworks
+
+| Next.js | Phoenix | Apache Kafka | PyTorch | Tailwind CSS | Selenium |
+|---------|---------|--------------|---------|--------------|----------|
+
+### Developer Tools
+
+| Git | GitHub | AWS | Azure | Docker | CircleCI | ArgoCD | Jira | Storybook | Postman |
+|-----|--------|-----|-------|--------|----------|--------|------|-----------|---------|
 
 ---
 ###
