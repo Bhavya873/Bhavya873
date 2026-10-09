@@ -18,8 +18,9 @@
 - 🤖 Most recently at **Figure AI**, building test and observability tooling for humanoid robots.
 - 🏂 Outside of code, I'm learning to snowboard and I'm a Toronto Maple Leafs fan, so I'm used to falling in the winter and collapsing in the spring.
 
-<img src="assets/leafs-card.svg" width="600" alt="Toronto Maple Leafs season card, updated daily" />
-
+<p align="center">
+  <img src="assets/leafs-card.svg" width="600" alt="Toronto Maple Leafs season card, updated automatically" />
+</p>
 ### Tech I use
 
 **Languages**
