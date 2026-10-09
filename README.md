@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Bhavya 👋</h1>
 <p align="center">
-  AI is great at writing code. I'm the one who finds out why prod is down at 3 a.m.<br/>
-  I work mostly on backend, infrastructure and observability, where every millisecond counts.
+  Focus in robotics, developer tooling and scalable systems. <br/>
+  AI is great at writing code until I'm the one finding out why prod is down at 3 a.m.
 </p>
 
 <p align="center">
