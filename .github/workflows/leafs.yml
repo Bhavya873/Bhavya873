@@ -2,8 +2,12 @@ name: Update Leafs record
 
 on:
   schedule:
-    - cron: "0 11 * * *"   # every morning, 7 a.m. Toronto time (11:00 UTC in summer, 6 a.m. in winter)
-  workflow_dispatch:        # lets you run it by hand from the Actions tab
+    - cron: "0 5,8,16 * * *"   # ~1 a.m., 4 a.m. and noon Toronto time: catches late West Coast games and morning-after stats
+  push:                         # redraw right away when the script or this workflow changes
+    paths:
+      - ".github/scripts/leafs.py"
+      - ".github/workflows/leafs.yml"
+  workflow_dispatch:            # lets you run it by hand from the Actions tab
 
 permissions:
   contents: write
