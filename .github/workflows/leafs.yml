@@ -1,0 +1,30 @@
+name: Update Leafs record
+
+on:
+  schedule:
+    - cron: "0 11 * * *"   # every morning, 7 a.m. Toronto time (11:00 UTC in summer, 6 a.m. in winter)
+  workflow_dispatch:        # lets you run it by hand from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Update README
+        run: python .github/scripts/leafs.py
+      - name: Commit if changed
+        run: |
+          if git diff --quiet README.md; then
+            echo "No change"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          git commit -am "Update Leafs record"
+          git push
