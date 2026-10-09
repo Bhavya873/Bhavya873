@@ -17,7 +17,8 @@
 - 🔭 Looking for **full-time new-grad software engineering roles** in infrastructure, backend and distributed systems.
 - 🤖 Most recently at **Figure AI**, building test and observability tooling for humanoid robots.
 - 🏂 Outside of code, I'm learning to snowboard and I'm a Toronto Maple Leafs fan, so I'm used to falling in the winter and collapsing in the spring.
-  - <!-- LEAFS:START -->Leafs right now: **2-2-0** · 4 pts · 5th in the Atlantic · Last: W 5-4 (OT) vs NSH · Next: @ VGK, Oct 8 at 10:00 PM ET<!-- LEAFS:END -->
+
+<img src="assets/leafs-card.svg" width="600" alt="Toronto Maple Leafs season card, updated daily" />
 
 ### Tech I use
 
