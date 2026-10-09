@@ -21,6 +21,7 @@
 <p align="center">
   <img src="assets/leafs-card.svg" width="600" alt="Toronto Maple Leafs season card, updated automatically" />
 </p>
+
 ### Tech I use
 
 **Languages**
