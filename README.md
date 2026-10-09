@@ -1,46 +1,55 @@
-<h1 align="center">Hi 👋, I'm Bhavya! <br />
-A Fullstack developer 💻 with a passion for finance 📈</h1>
+<h1 align="center">Hi, I'm Bhavya 👋</h1>
+<p align="center">
+  AI is great at writing code. I'm the one who finds out why prod is down at 3 a.m.<br/>
+  I work mostly on backend, infrastructure and observability, where every millisecond counts.
+</p>
 
-###
-<h3>Who I am📌</h3>
-
-<text align="Left">
-🎓 I am a fourth-year Computer Science and Business double degree student at the University Of Waterloo<br><br>
-🦆 Right now, I'm working on MatchaGoose, a startup that aims to boost campus tech engagement!<br><br>
-💼 I'm currently seeking Fall 2025 Software Engineering Internships <br><br>
-🏂 Fun fact: I love the outdoors, playing sports and have recently picked up snowboarding!
-</text> <br />
-
----
-###
-<h3>What I've used in the past👨‍💻</h3>
-
-### Languages
-
-| Python | Elixir | C | C++ | C# | Java | JavaScript | HTML5 | CSS3 | PostgreSQL | GraphQL | R |
-|--------|--------|---|-----|----|------|------------|-------|------|------------|---------|---|
-
-### Frameworks
-
-| Next.js | Phoenix | Apache Kafka | PyTorch | Tailwind CSS | Selenium |
-|---------|---------|--------------|---------|--------------|----------|
-
-### Developer Tools
-
-| Git | GitHub | AWS | Azure | Docker | CircleCI | ArgoCD | Jira | Storybook | Postman |
-|-----|--------|-----|-------|--------|----------|--------|------|-----------|---------|
+<p align="center">
+  <a href="https://www.linkedin.com/in/bhavyamodi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://bhavyamodi.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:bhavyamodi873@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
 ---
-###
-<h3 align="left">How to reach me 📧</h3>
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/bhavyamodi/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:b3modi@uwaterloo.ca" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="microsoft-outlook logo"  />
-  </a>
-  <a href="https://bhavyamodi.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" height="28" alt="website logo" />
-  </a>
+### About me
+
+- 🔭 Looking for **full-time new-grad software engineering roles** in infrastructure, backend and distributed systems.
+- 🤖 Most recently at **Figure AI**, building test and observability tooling for humanoid robots.
+- 🏂 Outside of code, I'm learning to snowboard and I'm a Toronto Maple Leafs fan, so I'm used to falling in the winter and collapsing in the spring.
+  - <!-- LEAFS:START -->Leafs right now: **2-2-0** · 4 pts · 5th in the Atlantic · Last: W 5-4 (OT) vs NSH · Next: @ VGK, Oct 8 at 10:00 PM ET<!-- LEAFS:END -->
+
+### Tech I use
+
+**Languages**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" title="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" title="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" title="TypeScript" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/rust/ffffff" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="Rust" title="Rust" />
+  </picture>
+</p>
+
+**Systems & Infrastructure**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" title="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" title="Docker" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/apachekafka/ffffff" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" alt="Kafka" title="Kafka" />
+  </picture>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" title="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="Redis" title="Redis" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" title="MongoDB" />
+</p>
+
+**Frameworks & APIs**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" title="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" title="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="GraphQL" title="GraphQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grpc/grpc-original.svg" height="40" alt="gRPC" title="gRPC" />
+</p>
