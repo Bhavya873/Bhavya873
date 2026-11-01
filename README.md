@@ -14,9 +14,9 @@
 
 ### About me
 
-- 🔭 Looking for **full-time new-grad software engineering roles** in infrastructure, backend and distributed systems.
-- 🤖 Most recently at **Figure AI**, building test and observability tooling for humanoid robots.
-- 🏂 Outside of code, I'm learning to snowboard and I'm a Toronto Maple Leafs fan, so I'm used to falling in the winter and collapsing in the spring.
+- Recent CS/BBA new grad from Uwaterloo. Seeking **new grad software engineering roles**
+- Most recently at **Figure AI**, building test and observability tooling for humanoid robots. Previously at theScore, Dayforce and Cmic twice
+- Outside of code, I'm learning to snowboard 🏂 and I'm a Toronto Maple Leafs fan 🍁, so I'm used to falling in the winter and collapsing in the spring.
 
 <p align="center">
   <img src="assets/leafs-card.svg" width="600" alt="Toronto Maple Leafs season card, updated automatically" />
