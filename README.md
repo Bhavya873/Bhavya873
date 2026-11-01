@@ -17,7 +17,7 @@
 ### About me
 
 - Recent CS/BBA new grad from Uwaterloo. Seeking **new grad software engineering roles**
-- Most recently at **Figure AI**, building test and observability tooling for humanoid robots. Previously at theScore, Dayforce and Cmic twice
+- Most recently at **Figure AI**, building test and observability tooling for humanoid robots. Previously at theScore, Dayforce, Cmic x2
 - Outside of code, I'm learning to snowboard 🏂 and I'm a Toronto Maple Leafs fan 🍁, so I'm used to falling in the winter and collapsing in the spring.
 
 - Built this leafs score card that updates every morning to remind me of the saying "This is our year" - Go leafs Go
