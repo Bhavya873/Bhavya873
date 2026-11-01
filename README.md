@@ -16,9 +16,9 @@
 
 ### About me
 
-- Recent CS/BBA new grad from Uwaterloo. Seeking **new grad software engineering roles**
+- CS/BBA New Grad from Uwaterloo seeking **New Grad Software Engineering Roles**
 - Most recently at **Figure AI**, building test and observability tooling for humanoid robots. Previously at theScore, Dayforce, Cmic x2
-- Outside of code, I'm learning to snowboard 🏂 and I'm a Toronto Maple Leafs fan 🍁, so I'm used to falling in the winter and collapsing in the spring.
+- Outside of code, I'm learning to snowboard 🏂 and as a Toronto Maple Leafs fan 🍁, I'm used to falling in the winter and collapsing in the spring.
 
 - Built this leafs score card that updates every morning to remind me of the saying "This is our year" - Go leafs Go
 
